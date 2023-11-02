@@ -125,6 +125,7 @@ p {
     .img{
         position: static;
         transform: rotate(0);
+        float: none;
     }
     
  }
