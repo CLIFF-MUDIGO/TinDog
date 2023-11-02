@@ -144,4 +144,6 @@ p {
     text-align: center;
     padding: 100px;
  }
-.social-icon{}
+.social-icon{
+    margin: 20px 10px;
+}
